@@ -6,7 +6,7 @@ Data for Democracy's mission is to be an inclusive community for data scientists
 
 * Read more about our our [origin story] (https://medium.com/data-for-democracy/origin-story-b740f14ca6ed#.psbzqw21y).  
 * We use slack and github as our primary means of organization and communication. Email jonathon [at] datafordemocracy.org for an invite to the team.  
-* Read about our [current projects](https://gist.github.com/bstarling/d5ad5f9d516d6f10db18235e4ca325f1#current-projects).  
+* Read about our [current projects](#current-projects).  
 * If you see a project you are interested in, join the project slack channel, introduce yourself to the community and the project lead(s).  
 * Visit project readme for specific instructions on who to contact or how to get started.
 * Not sure which project you want to join? Introduce yourself in #general. Talk to a few project leads, let them know what you are interested in. Project leads can help you determine if a project is a good fit for you.  
