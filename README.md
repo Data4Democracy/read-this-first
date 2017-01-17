@@ -40,7 +40,7 @@ We have many projects going in our slack community. Below is a list of some of o
 
 **Project Leads:** [@ryanes](https://datafordemocracy.slack.com/messages/@ryanes/) [@eric_bickel](https://datafordemocracy.slack.com/messages/@eric_bickel/)
 
-**Data:** [data.world/data4democracy/pro-publica](https://data.world/data4democracy/pro-publica)
+**Data:** [data.world/data4democracy/propublica](https://data.world/data4democracy/propublica)
 
 ### [USA Dashboard](https://github.com/Data4Democracy/usa-dashboard/issues)  
 **Slack:** [#usa-dashboard](https://datafordemocracy.slack.com/messages/usa-dashboard/) 
