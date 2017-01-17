@@ -12,6 +12,7 @@ Data for Democracy's mission is to be an inclusive community for data scientists
 * Not sure which project you want to join? Introduce yourself in #general. Talk to a few project leads, let them know what you are interested in. Project leads can help you determine if a project is a good fit for you.  
 * Have an idea for a new project? Join [#project-ideas](https://datafordemocracy.slack.com/messages/project-ideas/) to start a discussion on a new project.
 * Not sure how to get started? Contact @gecky or @jonathon in the Slack, or checkout the [#onboarding](https://datafordemocracy.slack.com/messages/onboarding/) channel, and we'll help you out. 
+* Check out our [data.world](https://data.world) page at [data.world/data4democracy](https://data.world/data4democracy)
 
 ## Current projects  
 We have many projects going in our slack community. Below is a list of some of our more active projects that are actively seeking help.
@@ -30,12 +31,16 @@ We have many projects going in our slack community. Below is a list of some of o
 
 **Project Leads:** [@jenniferthompson](https://datafordemocracy.slack.com/messages/@jenniferthompson/) [@mattgawarecki](https://datafordemocracy.slack.com/messages/mattgawarecki/)
 
+**Data:** [data.world/data4democracy/drug-spending](https://data.world/data4democracy/drug-spending)
+
 ### ProPublica  
 **Slack:** [#propublica](https://datafordemocracy.slack.com/messages/propublica/)
 
 **Project Description:** Working on projects to support the non-profit investigative journalism publication, [ProPublica](http://propublica.org). The team's first project is [analyzing campaign spending data](https://github.com/Data4Democracy/campaign_expenditures). 
 
 **Project Leads:** [@ryanes](https://datafordemocracy.slack.com/messages/@ryanes/) [@eric_bickel](https://datafordemocracy.slack.com/messages/@eric_bickel/)
+
+**Data:** [data.world/data4democracy/pro-publica](https://data.world/data4democracy/pro-publica)
 
 ### [USA Dashboard](https://github.com/Data4Democracy/usa-dashboard/issues)  
 **Slack:** [#usa-dashboard](https://datafordemocracy.slack.com/messages/usa-dashboard/) 
@@ -50,3 +55,6 @@ We have many projects going in our slack community. Below is a list of some of o
 **Project Description:** Aggregating and normalizing county-level election results to be shared with the broader community. 
 
 **Project Leads:** [@chris_dick](https://datafordemocracy.slack.com/messages/chris_dick/), [@scottcame](https://datafordemocracy.slack.com/messages/scottcame/), [@rachelanddata](https://datafordemocracy.slack.com/messages/rachelanddata/)
+
+**Data:** [data.world/data4democracy/election-transparency](https://data.world/data4democracy/election-transparency)
+
