@@ -11,7 +11,8 @@
 * Person 2
 * Person 3
 
-**Data:** [https://data.world/data4democracy/[project-name]](link)   
+**Data:** [https://data.world/data4democracy/[project-name]](link)   _Note: Create dataset for project in data.world and link it here._
+
 
 ### Getting started:  -- Outline each project will have it's own
 * We welcome contributions from first timers / leave this out if you're not "beginner friendly"
