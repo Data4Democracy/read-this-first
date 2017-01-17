@@ -11,7 +11,7 @@
 * Person 2
 * Person 3
 
-**Data:** [data.world/data4democracy/[project name]](www.data.world/)   
+**Data:** [https://data.world/data4democracy/[project-name]](link)   
 
 ### Getting started:  -- Outline each project will have it's own
 * We welcome contributions from first timers / leave this out if you're not "beginner friendly"
