@@ -59,7 +59,7 @@ We have many projects going in our slack community. Below is a list of some of o
 
 **Data:** [data.world/data4democracy/election-transparency](https://data.world/data4democracy/election-transparency)
 
-## Task digest (non-exhaustive)
+## Task digest
 If you're looking for a certain type of task (e.g. beginner-friendly) to lead you to a project, try checking the links below:
 * [Beginner-friendly](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Abeginner-friendly&type=Issues)
-* [Data collection](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Adata+collection&type=Issues)
+* [Data collection](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3A%22data+collection%22&type=Issues)
