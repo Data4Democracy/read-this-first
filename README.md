@@ -9,8 +9,9 @@ Data for Democracy's mission is to be an inclusive community for data scientists
 * Read about our [current projects](#current-projects).  
 * If you see a project you are interested in, join the project slack channel, introduce yourself to the community and the project lead(s).  
 * Visit project readme for specific instructions on who to contact or how to get started.
-* Not sure which project you want to join? Introduce yourself in #general. Talk to a few project leads, let them know what you are interested in. Project leads can help you determine if a project is a good fit for you.  
+* Not sure which project you want to join? Introduce yourself in #general. Talk to a few project leads, let them know what you are interested in. Project leads can help you determine if a project is a good fit for you.
 * Have an idea for a new project? Join [#project-ideas](https://datafordemocracy.slack.com/messages/project-ideas/) to start a discussion on a new project.
+* Looking for a certain type of task, in any project? Check the [task digest](#task-digest).
 * Not sure how to get started? Contact @gecky or @jonathon in the Slack, or checkout the [#onboarding](https://datafordemocracy.slack.com/messages/onboarding/) channel, and we'll help you out. 
 * Check out our [data.world](https://data.world) page at [data.world/data4democracy](https://data.world/data4democracy), where data can be shared. See our guide to [get started](https://github.com/Data4Democracy/read-this-first/blob/master/data-world.md). Contact @sya or @gabriela in Slack with questions
 
@@ -58,3 +59,7 @@ We have many projects going in our slack community. Below is a list of some of o
 
 **Data:** [data.world/data4democracy/election-transparency](https://data.world/data4democracy/election-transparency)
 
+## Task digest
+If you're looking for a certain type of task (e.g. beginner-friendly) to lead you to a project, try checking the links below:
+* [Beginner-friendly](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Abeginner-friendly&type=Issues)
+* [Data collection](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3A%22data+collection%22&type=Issues)
