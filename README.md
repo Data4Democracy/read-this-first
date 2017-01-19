@@ -12,7 +12,8 @@ Data for Democracy's mission is to be an inclusive community for data scientists
 * Not sure which project you want to join? Introduce yourself in #general. Talk to a few project leads, let them know what you are interested in. Project leads can help you determine if a project is a good fit for you.
 * Have an idea for a new project? Join [#project-ideas](https://datafordemocracy.slack.com/messages/project-ideas/) to start a discussion on a new project.
 * Looking for a certain type of task, in any project? Check the [task digest](#task-digest).
-* Not sure how to get started? Contact @gecky or @jonathon in the Slack, or checkout the [#onboarding](https://datafordemocracy.slack.com/messages/onboarding/) channel, and we'll help you out. 
+* Not sure how to get started? Contact @gecky or @jonathon in the Slack, or check out the [#onboarding](https://datafordemocracy.slack.com/messages/onboarding/) channel, and we'll help you out.
+* Need to pick up some skills before diving in? Check out the [tutorials](https://github.com/Data4Democracy/tutorials) which are all relevant to D4D projects and chat about it in [#learning](https://datafordemocracy.slack.com/messages/learning/).
 * Check out our [data.world](https://data.world) page at [data.world/data4democracy](https://data.world/data4democracy), where data can be shared. See our guide to [get started](https://github.com/Data4Democracy/read-this-first/blob/master/data-world.md). Contact @sya or @gabriela in Slack with questions
 
 ## Current projects  
