@@ -1,32 +1,44 @@
-PROJECT LEAD
-ROLE DESCRIPTION
-*Created by @eric_bickel*
+*As with all of the organizational documents, this is not intended to be followed rigorously. These are simply guidelines around best practices that we hope people will update with their own experience and findings.*
 
-*First Tasks:*
-Setup Readme with:
-* Project scope and goals
-* Names of Facilitator + Ambassador
-* Managing list of project priorities
-* Links to tasks for people at various stages of analysis
-* Communication of the process
-* Formalizing the process for reviewing pull requests in the team’s GitHub repo
 
-*GitHub Privilege:*
-Administrative level
+# Project Lead
+Some guidelines about creating and taking on the role of project lead.
 
-*Basic Description:*
-Leads outline and maintain a prioritized list of tasks to be performed and provide the technical direction for the project in collaboration with the overall team, beginning with data collection and ending with report generation. In addition, Leads are tasked with communicating these needs out to the team, and jockeying for individuals to jump into each of the needs to own.
+## Role Description
+The project lead is designed to be a single main point of contact for a project. They are responsible for coordinating the technical direction of a project and its team, and ensuring that it meets its goals. The tasks involved can range in scope, and can be as self-contained as asking for a specific formatting of data or as wide-ranging as hunting down entire datasets to be analyzed. Think of this role as equivalent to "Manager of Data Science" or "Lead/Senior Data Scientist".
 
-These tasks can range in scope, and can be as self-contained as asking for a specific formatting of data or as wide-ranging as hunting down entire datasets to be analyzed. In short, Leads will own the overall analytical process.
+Never done this before? Great! No previous experience require and the D4D is here to help out.
 
-In addition to coordinating within the team, the Lead will work in conjunction with the participating organization and act as the point of contact, if applicable. 
+## Role Guidelines
+### When does a project need a lead?
+Some projects naturally require project leads from the outset - such as those with external partners - but not every project is created equal.
 
-Lastly, the Lead will actively communicate progress with both the Facilitator and Ambassador to keep them aware and will work with them on any needs they may have from the larger D4D community.
+Other times, the need for a lead might emerge over time. Let's say you've been goofing around with your D4D buddies. Someone thought it would be interesting to try to collect and build a pipeline for *\<insert shiny data>*, and you hack something together. The project gains some real momentum and people start piling in to help. Maybe it's time for a leader.
 
-*Role Candidates:*
-Volunteers who are willing to commit to a substantial amount of time (say, 10+ hours/week) on a specific project and manage that project from scoping through completion
-Project leads should have experience planning and implementing collaborative projects and enough technical knowledge to coordinate the work of contributors with varied skillsets
+### Responsibilities
+Responsibilities that should be 
 
-*Similar Roles:*
-Manager of Data Science
-Lead/Senior Data Scientist
+- Setting up a [project README](https://github.com/Data4Democracy/read-this-first/blob/master/new-project-template.md)
+- Coordinating the technical work of the team
+- Managing list of project priorities
+- Communicating the process
+- Identifying tasks for people at various stages of analysis
+- Act as point of contact
+- Communicate with project Facilitator and Ambassador
+
+Depending on the exact nature of the project, you might also want to include
+
+- Formalizing a pull request review process
+
+
+### GitHub Privilege
+The project lead should have administrative level permissions on the GitHub repo.
+
+### Selecting a project lead
+For projects where an external partner is involved or with specific deliverables, leaders may be appointed by D4D.
+
+
+##
+
+### Tips for Project Leads
+*To be filled by members*
