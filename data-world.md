@@ -68,5 +68,5 @@ There is a maximum of 100 individual files per dataset currently.
 ### Any other resources I should know about?     
 [data.world API documentation](https://docs.data.world/documentation/api/)    
 [data.world knowledge base & support site](https://help.data.world/support/home)    
-[data.world tutorials](https://help.data.world/support/home)    
+[data.world tutorials](https://docs.data.world/)    
 [data.world file upload error messages](https://help.data.world/support/solutions/articles/14000049447-file-upload-error-messages)
