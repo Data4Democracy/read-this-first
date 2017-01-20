@@ -28,12 +28,19 @@ We have many projects going in our slack community. Below is a list of some of o
 
 ### [Drug Spending](https://github.com/Data4Democracy/drug-spending)  
 **Slack:** [#drug-spending](https://datafordemocracy.slack.com/messages/drug-spending/)  
-
 **Project Description:** Help the public understand what their tax dollars are going toward. Eg, what % of the eligible population (and/or all Americans) are benefiting from Medicare prescription drug coverage? How many Medicare enrollees are being treated for common/relatable conditions like diabetes, Alzheimer's, or depression? What proportion of Medicare prescription spending is on each of those conditions? 
 
 **Project Leads:** [@jenniferthompson](https://datafordemocracy.slack.com/messages/@jenniferthompson/) [@mattgawarecki](https://datafordemocracy.slack.com/messages/mattgawarecki/)
 
 **Data:** [data.world/data4democracy/drug-spending](https://data.world/data4democracy/drug-spending)
+
+### Boston Crash Modeling
+**Project Description:** This is an official collaboration with the Mayor's office in the city of Boston with Data for Democracy. We want to build a crash prediction modeling application. This would combine things like [our crowdsourced safety concerns dataset](http://app01.cityofboston.gov/VZSafety/) and [crash reports](http://app01.cityofboston.gov/VisionZero/) with a wide range of other data from our own open data portal as well as from other sources like the state's transportation and transit agencies, weather conditions feeds, and traffic reports from sites like Google. The end result will be a set of dynamic predictions we can use to identify potential trouble spots and direct timely safety interventions--everything from protected bike lanes and better-marked crosswalks to new street lights and traffic light timings. We'll make this publicly-available to everyone through a hosted map application, and develop the project as an open source template that can be adapted for use by other cities.
+
+**Slack:** [#boston-crash-modeling](https://datafordemocracy.slack.com/messages/boston-crash-modeling/) 
+
+**Project Leads:** [@therriault](https://datafordemocracy.slack.com/messages/@therriault/)
+
 
 ### ProPublica  
 **Slack:** [#propublica](https://datafordemocracy.slack.com/messages/propublica/)
