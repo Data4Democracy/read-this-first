@@ -20,7 +20,7 @@ If your data is already in GitHub or another cloud storage repository (S3, Dropb
 More info here: [data.world API documentation](https://docs.data.world/documentation/api/)   
 
 ### How do I get started on data.world?
-1. Signup for an account on [data.world](https://data.world), and let @jonathon or @sharon know so they can add you as a contributor. This will grant you upload privileges to the current D4D projects (we'll add more later!)
+1. Sign up for an account on [data.world](https://data.world), and let @jonathon or @sharon know so they can add you as a contributor. This will grant you upload privileges to the current D4D projects (we'll add more later!)
 2. When you have a dataset you'd like to share publicly or collaborate on with other volunteers, upload it through the data.world UI.
 3. If you own datasets in data.world that are not in [data.world/Data4Democracy](https://data.world/data4democracy) for whatever reason, but you'd like to connect them to a D4D project you can:  
     * Utilize Tags: Add the `d4d` tag and if data is related to a specific project, we encourage you to add the tag(s) that corresponds to the project, e.g. `election transparency`, `house expenditures`, `propublica`, etc.
@@ -28,10 +28,10 @@ More info here: [data.world API documentation](https://docs.data.world/documenta
     * For datasets that you do not own but are used in your project, link to them in your summary or request to be a contributor and add tags
 4. You can explore the data on data.world and can use their API to send SQL queries and get CSVs (and, subsequently, dataframes!) back! Coming very soon - the ability to upload data via the API as well!
 5. Now all the datasets for a project can live in one place. You can comment on them, annotate them, access them programmatically. Boom!
-6. As you may have noticed, lots of the data.world team are actually in the community volunteering on various projects, but if have technical questions and aren't sure who to get in touch with, just join the #tools-support channel and ask the room.
+6. As you may have noticed, lots of the data.world team are actually in the community volunteering on various projects. If you have technical questions and aren't sure who to get in touch with, join the `#tools-support` channel and ask the room.
 
 ### How should we organize files within the project-specific datasets (folders vs. tags, etc.)
-Right now files are organized alphabetically within datasets specific to each D4D channel/workgroup. While data.world will be adding folders or tagging in the near future, currently most datasets only have a handful files. Therefore, our current best practice is to prefix the filenames to logically group or order them.
+Right now files are organized alphabetically within datasets specific to each D4D channel/workgroup. While data.world will be adding folders or tagging in the near future, currently most datasets only have a handful of files. Therefore, our current best practice is to prefix the filenames to logically group or order them.
 
 _Example:_ Filetype_01_name.pdf
 
