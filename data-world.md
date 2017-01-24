@@ -6,13 +6,13 @@ data.world is a social network for data people; users can discover and share coo
 
 ### What should D4D use data.world for?   
 data.world is a repository for D4D datasets and a workspace for collaboration on D4D data projects. Here are some of the distinct advantages to storing data in data.world vs. GitHub or other repositories:
-Great presentation of data via file previews and data visualizations
-Allows for live querying and joining datasets via a query tool, saved queries and API
-Live free-form discussions around data
-Data-specific search
-Ability to join to external semantic data sources such as dbpedia and wikidata
-Editable column and file meta descriptions
-Easily accessible/viewable for others (though you have the option to keep your dataset private vs. open)
+* Great presentation of data via file previews and data visualizations
+* Allows for live querying and joining datasets via a query tool, saved queries and API
+* Live free-form discussions around data
+* Data-specific search
+* Ability to join to external semantic data sources such as dbpedia and wikidata
+* Editable column and file meta descriptions
+* Easily accessible/viewable for others (though you have the option to keep your dataset private vs. open)
 
 ### What if I’m already storing my data in another repository?  
 If your data is already in GitHub or another cloud storage repository (S3, Dropbox, Drive, etc), you can convienently mirror your data into data.world via their sync API (requires some programming, reach out in #tools-support for help on this). data.world is imminently releasing RESTful APIs for basic CRUD operations inside datasets that will further ease the workflow of updating data in data.world.   
