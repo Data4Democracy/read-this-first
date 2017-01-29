@@ -27,7 +27,7 @@ All of our projects are doing some interesting data gathering and analysis that 
 We're doing this on a per-project basis, and would love someone to manage this process -- from GitHub access, to data sharing, to AWS permissions, and everything in between.  
 
 ### Matchmaker
-The community has grown to a point where there is a lot of activity and a many new volunteers. We could use more people who know about the various projects that are happening along with the skills of the incoming volunteers, and can both match people to projects (ideally, to specific tasks), along with routinely surfacing new opportunities to the broader community for folks to get involved at all skill levels. @gecky and the individual project leads have been going above and beyond in this regard, and they need your help.
+The community has grown to a point where there is a lot of activity and a steady stream of new volunteers, which is awesome! We could use more people who know about the various projects that are happening along with the skills of the incoming volunteers, and can both match people to projects (ideally, to specific tasks), along with routinely surfacing new opportunities to the broader community for folks to get involved at all skill levels. @gecky and the individual project leads have been going above and beyond in this regard, and they need your help.
 
 ## Current projects  
 We have many projects going in our slack community. Below is a list of some of our more active projects that are actively seeking help.
