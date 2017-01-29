@@ -6,7 +6,7 @@ Data for Democracy's mission is to be an inclusive community for data scientists
 
 * Read more about our our [origin story](https://medium.com/data-for-democracy/origin-story-b740f14ca6ed#.psbzqw21y).  
 * We use slack and github as our primary means of organization and communication. Email jonathon [at] datafordemocracy.org for an invite to the team.  
-* Read about our [current projects](#current-projects).  
+* Read about our [current projects](#current-projects), or check out how you can volunteer [across the community](#across-the-community). 
 * If you see a project you are interested in, join the project slack channel, introduce yourself to the community and the project lead(s).  
 * Visit project readme for specific instructions on who to contact or how to get started.
 * Not sure which project you want to join? Introduce yourself in [#general](https://datafordemocracy.slack.com/messages/general/). Talk to a few project leads, let them know what you are interested in. Project leads can help you determine if a project is a good fit for you.
@@ -15,6 +15,19 @@ Data for Democracy's mission is to be an inclusive community for data scientists
 * Not sure how to get started? Contact @gecky or @jonathon in the Slack, or check out the [#onboarding](https://datafordemocracy.slack.com/messages/onboarding/) channel, and we'll help you out.
 * Want to pick up some skills before diving in? Check out the [tutorials](https://github.com/Data4Democracy/tutorials) which are all relevant to D4D projects and chat about it in [#learning](https://datafordemocracy.slack.com/messages/learning/).
 * Check out our [data.world](https://data.world) page at [data.world/data4democracy](https://data.world/data4democracy), where data can be shared. See our guide to [get started](https://github.com/Data4Democracy/read-this-first/blob/master/data-world.md). Contact @sya or @gabriela in Slack with questions
+
+## Across the Community
+
+While most of our work is [project based](#current-projects), the community is large and vibrant enough that we're looking for common needs across projects that the organization can support. These are ongoing roles that can be time consuming, but are also essential to making the community helpful to our partners and a valuable experience for our volunteers. Ping @jonathon in Slack if you'd like to help with the following:
+
+### Storytelling
+All of our projects are doing some interesting data gathering and analysis that we'd love to share with the world. We'd like to start publishing regular blog posts highlighting these resources, scheduling short interviews for the [Partially Derivative](http://partiallyderivative.com) podcast, and discussing our work on social media so the larger community knows what we're doing and gets to see our work in progress. If you want to write, edit, tweet, and ideally organize this process, we'd like to hear from you.
+
+### Infrastructure and IT administration
+We're doing this on a per-project basis, and would love someone to manage this process -- from GitHub access, to data sharing, to AWS permissions, and everything in between.  
+
+### Matchmaker
+The community has grown to a point where there is a lot of activity and a many new volunteers. We could use more people who know about the various projects that are happening along with the skills of the incoming volunteers, and can both match people to projects (ideally, to specific tasks), along with routinely surfacing new opportunities to the broader community for folks to get involved at all skill levels. @gecky and the individual project leads have been going above and beyond in this regard, and they need your help.
 
 ## Current projects  
 We have many projects going in our slack community. Below is a list of some of our more active projects that are actively seeking help.
