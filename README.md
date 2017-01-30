@@ -55,7 +55,7 @@ We have many projects going in our slack community. Below is a list of some of o
 
 ---
 
-### [City of San Diego]
+### City of San Diego
 **Project Description:** This is an ongoing collaboration with the analytics team at the city of San Diego. We're be checking in with them on a regular basis to see what analysis or machine learning projects they need help with, and coordinating with the D4D community on a project-by-project basis to get things done. This is a great way to make a direct impact at the city level. 
 
 **Slack:** [#city-sandiego](https://datafordemocracy.slack.com/messages/city-sandiego/) 
@@ -93,6 +93,8 @@ Classifying, tagging, analyzing and visualizing news events about internal displ
 **Project Lead:**
 [@grichardson](https://datafordemocracy.slack.com/messages/grichardson/)
 
+---
+
 ### ProPublica  
 **Slack:** [#propublica](https://datafordemocracy.slack.com/messages/propublica/)
 
@@ -113,7 +115,7 @@ Classifying, tagging, analyzing and visualizing news events about internal displ
 
 ---
 
-### [Immigration Legal Tech]
+### Immigration Legal Tech
 **Project Description:** This is a new project that sprung up in response to the immigrant ban. We're talking with one national immigration law non-profit to make sure the project stays focused on what's most needed, but this project is very early. Join the Slack channel if you'd like to stay up to date on how this evolves.
 
 **Slack:** [#immigration-connection](https://datafordemocracy.slack.com/messages/immigration-connection/) 
