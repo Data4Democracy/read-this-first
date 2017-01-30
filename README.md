@@ -85,10 +85,12 @@ We have many projects going in our slack community. Below is a list of some of o
 
 ---
 
-### [Internal Displacement](https://github.com/Data4Democracy/internal-displacement)
+### [Refugees](https://github.com/Data4Democracy/internal-displacement)
 
 **Project Description:**  
-Classifying, tagging, analyzing and visualizing news events about internal displacement.
+Grouping for projects related to refugees. Our main current project involves classifying, tagging, analyzing and visualizing news events relating to internally displaced people in an attempt to track internal refugee crises across the globe.
+
+**Slack:** [#refugees](https://datafordemocracy.slack.com/messages/refugees/)
 
 **Project Lead:**
 [@grichardson](https://datafordemocracy.slack.com/messages/@grichardson/)
