@@ -68,7 +68,7 @@ We have many projects going in our slack community. Below is a list of some of o
 **Slack:** [#drug-spending](https://datafordemocracy.slack.com/messages/drug-spending/)  
 **Project Description:** Help the public understand what their tax dollars are going toward. Eg, what % of the eligible population (and/or all Americans) are benefiting from Medicare prescription drug coverage? How many Medicare enrollees are being treated for common/relatable conditions like diabetes, Alzheimer's, or depression? What proportion of Medicare prescription spending is on each of those conditions? 
 
-**Project Leads:** [@jenniferthompson](https://datafordemocracy.slack.com/messages/@jenniferthompson/) [@mattgawarecki](https://datafordemocracy.slack.com/messages/mattgawarecki/)
+**Project Leads:** [@jenniferthompson](https://datafordemocracy.slack.com/messages/@jenniferthompson/) [@mattgawarecki](https://datafordemocracy.slack.com/messages/@mattgawarecki/)
 
 **Data:** [data.world/data4democracy/drug-spending](https://data.world/data4democracy/drug-spending)
 
@@ -91,7 +91,7 @@ We have many projects going in our slack community. Below is a list of some of o
 Classifying, tagging, analyzing and visualizing news events about internal displacement.
 
 **Project Lead:**
-[@grichardson](https://datafordemocracy.slack.com/messages/grichardson/)
+[@grichardson](https://datafordemocracy.slack.com/messages/@grichardson/)
 
 ---
 
@@ -100,7 +100,7 @@ Classifying, tagging, analyzing and visualizing news events about internal displ
 
 **Project Description:** Working on projects to support the non-profit investigative journalism publication, [ProPublica](http://propublica.org). The team's first project is [analyzing campaign spending data](https://github.com/Data4Democracy/campaign_expenditures) and have just started a web scraping/data engineering project around [foreign travel expenditures](https://github.com/Data4Democracy/official-foreign-travel). 
 
-**Project Leads:** [@ryanes](https://datafordemocracy.slack.com/messages/@ryanes/) [@eric_bickel](https://datafordemocracy.slack.com/messages/eric_bickel/)
+**Project Leads:** [@ryanes](https://datafordemocracy.slack.com/messages/@ryanes/) [@eric_bickel](https://datafordemocracy.slack.com/messages/@eric_bickel/)
 
 **Data:** [data.world/data4democracy/propublica](https://data.world/data4democracy/propublica)
 
@@ -120,7 +120,7 @@ Classifying, tagging, analyzing and visualizing news events about internal displ
 
 **Slack:** [#immigration-connection](https://datafordemocracy.slack.com/messages/immigration-connection/) 
 
-**Project Leads:** [@tylerjrichards](https://datafordemocracy.slack.com/messages/tylerjrichards/) [@jonathon](https://datafordemocracy.slack.com/messages/jonathon/)
+**Project Leads:** [@tylerjrichards](https://datafordemocracy.slack.com/messages/tylerjrichards/) [@jonathon](https://datafordemocracy.slack.com/messages/@jonathon/)
 
 ## Task digest
 If you're looking for a certain type of task (e.g. beginner-friendly) to lead you to a project, try checking the links below:
