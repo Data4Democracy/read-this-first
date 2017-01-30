@@ -91,9 +91,7 @@ We have many projects going in our slack community. Below is a list of some of o
 Classifying, tagging, analyzing and visualizing news events about internal displacement.
 
 **Project Lead:**
-[@georgerichardson](https://datafordemocracy.slack.com/messages/georgerichardson/)
-
----
+[@grichardson](https://datafordemocracy.slack.com/messages/grichardson/)
 
 ### ProPublica  
 **Slack:** [#propublica](https://datafordemocracy.slack.com/messages/propublica/)
