@@ -5,9 +5,9 @@ Data for Democracy's mission is to be an inclusive community for data scientists
 ## Getting Started  
 
 * Read more about our our [origin story](https://medium.com/data-for-democracy/origin-story-b740f14ca6ed#.psbzqw21y).  
-* We use slack and github as our primary means of organization and communication. Email jonathon [at] datafordemocracy.org for an invite to the team.  
+* We use Slack and GitHub as our primary means of organization and communication. Email jonathon [at] datafordemocracy.org for an invite to the team.  
 * Read about our [current projects](#current-projects), or check out how you can volunteer [across the community](#across-the-community).
-* If you see a project you are interested in, join the project slack channel, introduce yourself to the community and the project lead(s).  
+* If you see a project you are interested in, join the project Slack channel, introduce yourself to the community and the project lead(s).  
 * Visit project readme for specific instructions on who to contact or how to get started.
 * Not sure which project you want to join? Introduce yourself in [#general](https://datafordemocracy.slack.com/messages/general/). Talk to a few project leads, let them know what you are interested in. Project leads can help you determine if a project is a good fit for you.
 * Have an idea for a new project? Join [#project-ideas](https://datafordemocracy.slack.com/messages/project-ideas/) to start a discussion on a new project.
@@ -126,5 +126,22 @@ Grouping for projects related to refugees. Our main current project involves cla
 
 ## Task digest
 If you're looking for a certain type of task (e.g. beginner-friendly) to lead you to a project, try checking the links below:
-* [Beginner-friendly](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Abeginner-friendly&type=Issues)
-* [Data collection](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3A%22data+collection%22&type=Issues)
+* [beginner-friendly](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Abeginner-friendly&type=Issues): Good for people new to the project or technology stack used by the project. If you are experienced we encourage you not to claim these issues but instead post in comments offering to mentor a new person.
+* [bug](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Abug&type=Issues): Bug report.
+* [data-collection](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Adata-collection&type=Issues): Data collection task.
+* [data-viz](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Adata-viz&type=Issues): Data visualization task.
+* [discussion](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Adiscussion&type=Issues): Indicates this issue is a public discussion but may not necessarily have a specific task associated to it.
+* [documentation](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Adocumentation&type=Issues): Request for help with documentation.
+* [enhancement](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Aenhancement&type=Issues) 
+* [first-pr](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Afirst-pr&type=Issues): For first timers only. Issues with this label are meant to be a digestible to help people get up to speed with cloning the repository, making a change and creating a pull request. Please do not claim this issue unless it is your first pull request for this project.
+* [help wanted](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3A"help+wanted"&type=Issues): Catch all label soliciting for help.
+* [modeling](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Amodeling&type=Issues): Data modeling, machine learning task.
+* [proposal](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Aproposal&type=Issues)
+* [question](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Aquestion&type=Issues)
+* [status-blocked](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Astatus-blocked&type=Issues): Not ready for development.
+* [status-dev-ready](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Astatus-dev-ready&type=Issues): Development task that is fully defined and ready to start.
+* [status-in-progress](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Astatus-in-progress&type=Issues): Someone is actively working on this issue. Please reach out to the person assigned this issue if you would like to contribute.
+* [status-needs-grooming](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Astatus-needs-grooming&type=Issues): Issue is not fully defined. Either the person who opened the issue is not sure how to proceed or did not have time to complete. Indicates further research will be required to determine best path forward.
+* [storytelling](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Astorytelling&type=Issues): Need help crafting a story. Writing assignment.
+
+
