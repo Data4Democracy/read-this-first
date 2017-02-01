@@ -122,7 +122,7 @@ Grouping for projects related to refugees. Our main current project involves cla
 
 **Slack:** [#immigration-connection](https://datafordemocracy.slack.com/messages/immigration-connection/)
 
-**Project Leads:** [@tylerjrichards](https://datafordemocracy.slack.com/messages/@tylerjrichards/) [@jtorrez](https://datafordemocracy.slack.com/messages/@jtorrez/) [@chavan]((https://datafordemocracy.slack.com/messages/@chavan/)) 
+**Project Leads:** [@tylerjrichards](https://datafordemocracy.slack.com/messages/@tylerjrichards/) [@jtorrez](https://datafordemocracy.slack.com/messages/@jtorrez/) [@chavan](https://datafordemocracy.slack.com/messages/@chavan/)
 
 ## Task digest
 If you're looking for a certain type of task (e.g. beginner-friendly) to lead you to a project, try checking the links below:
