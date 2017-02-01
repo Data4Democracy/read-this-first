@@ -38,6 +38,7 @@ _Example:_ Filetype_01_name.pdf
 ### What file types can I upload?
 The following file extensions are enhanced during import, which means they can be queried and previewed (tabular files only) within data.world:
 * Tabular files: csv, tsv, xls, xlsx
+* JSON -> [Read about native support for JSON on data.world](https://meta.data.world/json-exposed-2c9c8fe1187d#.81g2y1oq5)
 * Raw triples / RDF files: rdf, rdfs, owl, jsonld, nt, ttl, n3
 
 _The following file extensions can be previewed within data.world:_
