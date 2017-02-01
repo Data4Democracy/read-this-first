@@ -120,7 +120,7 @@ Grouping for projects related to refugees. Our main current project involves cla
 ### [Immigration Legal Tech](https://github.com/Data4Democracy/immigration-connect)
 **Project Description:** This is a new project that sprung up in response to the immigrant ban. We're talking with one national immigration law non-profits to make sure the project stays focused on what's most needed, but this project is in the very early stages. Join the Slack channel if you'd like to stay up to date on how this evolves.
 
-**Slack:** [#immigration-connection](https://datafordemocracy.slack.com/messages/immigration-connection/)
+**Slack:** [#immigration-connect](https://datafordemocracy.slack.com/messages/immigration-connect/)
 
 **Project Leads:** [@tylerjrichards](https://datafordemocracy.slack.com/messages/@tylerjrichards/) [@jtorrez](https://datafordemocracy.slack.com/messages/@jtorrez/) [@chavan](https://datafordemocracy.slack.com/messages/@chavan/)
 
