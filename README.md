@@ -124,6 +124,17 @@ Grouping for projects related to refugees. Our main current project involves cla
 
 **Project Leads:** [@tylerjrichards](https://datafordemocracy.slack.com/messages/@tylerjrichards/) [@jtorrez](https://datafordemocracy.slack.com/messages/@jtorrez/) [@chavan](https://datafordemocracy.slack.com/messages/@chavan/)
 
+---
+
+### [Educational Connection Hub](https://github.com/Data4Democracy/educational-hub)  
+**Slack:** [#teaching](https://datafordemocracy.slack.com/messages/teaching/)
+
+**Project Description:** This project aims to develop resources and tools that connect educators and students interested in exploring capstone/community service projects with D4D. Very early stages right now, so join the Slack channel if you'd like to stay up to date on how this evolves.
+
+**Project Leads:** [@annakoop](https://datafordemocracy.slack.com/messages/@annakoop/) [@jtorrez](https://datafordemocracy.slack.com/messages/@jtorrez/)
+
+---
+
 ## Task digest
 If you're looking for a certain type of task (e.g. beginner-friendly) to lead you to a project, try checking the links below:
 * [beginner-friendly](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Abeginner-friendly&type=Issues): Good for people new to the project or technology stack used by the project. If you are experienced we encourage you not to claim these issues but instead post in comments offering to mentor a new person.
