@@ -17,7 +17,7 @@ data.world is a repository for D4D datasets and a workspace for collaboration on
 ### What if I’m already storing my data in another repository?  
 If your data is already in GitHub or another cloud storage repository (S3, Dropbox, Drive, etc), you can convienently mirror your data into data.world via their sync API (requires some programming, reach out in #tools-support for help on this). data.world is imminently releasing RESTful APIs for basic CRUD operations inside datasets that will further ease the workflow of updating data in data.world.   
 
-More info here: [data.world API documentation](https://docs.data.world/documentation/api/)   
+[data.world documentation](https://docs.data.world/)   
 
 ### How do I get started on data.world?
 1. Sign up for an account on [data.world](https://data.world), and let @jonathon or @sharon know so they can add you as a contributor. This will grant you upload privileges to the current D4D projects (we'll add more later!)
