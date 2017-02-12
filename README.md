@@ -137,6 +137,7 @@ Grouping for projects related to refugees. Our main current project involves cla
 
 ## Task digest
 If you're looking for a certain type of task (e.g. beginner-friendly) to lead you to a project, try checking the links below:
+* [analysis](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Aanalysis&type=Issues): Analysis questions, ranging from basic, exploratory questions to more complex questions.
 * [beginner-friendly](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Abeginner-friendly&type=Issues): Good for people new to the project or technology stack used by the project. If you are experienced we encourage you not to claim these issues but instead post in comments offering to mentor a new person.
 * [bug](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Abug&type=Issues): Bug report.
 * [data-collection](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Adata-collection&type=Issues): Data collection task.
