@@ -118,7 +118,7 @@ Grouping for projects related to refugees. Our main current project involves cla
 ---
 
 ### [Immigration Legal Tech](https://github.com/Data4Democracy/immigration-connect)
-**Project Description:** This is a new project that sprung up in response to the immigrant ban. We're talking with one national immigration law non-profits to make sure the project stays focused on what's most needed, but this project is in the very early stages. Join the Slack channel if you'd like to stay up to date on how this evolves.
+**Project Description:** This is a new project that sprung up in response to the immigrant ban. We're talking with one national immigration law non-profits to make sure the project stays focused on what's most needed, but this project is in the very early stages. Join the Slack channel if you'd like to stay up to date on how this evolves. As of now, we're working on mapping immigration raids across the United States, and are creating a matching algorithm to connect pro bono lawyers with immigrants in need. Also, we are helping the National Immigration Law Center in their lawsuit against the current administration's ban on immigration. 
 
 **Slack:** [#immigration-connect](https://datafordemocracy.slack.com/messages/immigration-connect/)
 
