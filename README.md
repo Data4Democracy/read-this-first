@@ -135,6 +135,21 @@ Grouping for projects related to refugees. Our main current project involves cla
 
 ---
 
+### [Indivisible](https://github.com/Data4Democracy/indivisible)  
+**Slack:** [#indivisible](https://datafordemocracy.slack.com/messages/indivisible/)
+ 
+**Project Description:** A variety of civic activism organizations have sprung up in the wake of the election to help mobilize and empower people. The organizations often operate by sending out daily or weekly “actions” that their supporters partake in – whether calling a Member of Congress’s office, attending an event, or reading a key piece of information. This project we will build tools to
+* Identify various actions available for users by aggregating different sources of data
+* Provide a clean user interface to filter and select actions they are interested in
+* Build a dashboard and track action progress/effectiveness over time
+* Engage user interest through social media or similar means to identify tasks for more effective actions
+
+**We need software and web developers**
+ 
+**Project Leads:** [@pg](https://datafordemocracy.slack.com/messages/@pg/) [@bonfiam](https://datafordemocracy.slack.com/messages/@bonfiam/)
+
+---
+
 ## Task digest
 If you're looking for a certain type of task (e.g. beginner-friendly) to lead you to a project, try checking the links below:
 * [analysis](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Aanalysis&type=Issues): Analysis questions, ranging from basic, exploratory questions to more complex questions.
