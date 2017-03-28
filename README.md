@@ -117,8 +117,8 @@ Grouping for projects related to refugees. Our main current project involves cla
 
 ---
 
-### [Immigration Legal Tech](https://github.com/Data4Democracy/immigration-connect)
-**Project Description:** This is a new project that sprung up in response to the immigrant ban. We're talking with one national immigration law non-profit to make sure the project stays focused on what's most needed, but this project is in the very early stages. Join the Slack channel if you'd like to stay up to date on how this evolves. As of now, we're working on mapping immigration raids across the United States, and are creating a matching algorithm to connect pro bono lawyers with immigrants in need. Also, we are helping the National Immigration Law Center in their lawsuit against the current administration's ban on immigration. 
+### [Immigration Connect](https://github.com/Data4Democracy/immigration-connect)
+**Project Description:** Collecting, analyzing, and modeling data related to immigration. We're also building tools (visualizations, email parsers, matching algorithms to connect to connect pro bono lawyers with immigrants in need) to support the work of organizations working on immigration law and other immigration related issues.
 
 **Slack:** [#immigration-connect](https://datafordemocracy.slack.com/messages/immigration-connect/)
 
@@ -137,7 +137,7 @@ Grouping for projects related to refugees. Our main current project involves cla
 
 ### [Indivisible](https://github.com/Data4Democracy/indivisible)  
 **Slack:** [#indivisible](https://datafordemocracy.slack.com/messages/indivisible/)
- 
+
 **Project Description:** A variety of civic activism organizations have sprung up in the wake of the election to help mobilize and empower people. The organizations often operate by sending out daily or weekly “actions” that their supporters partake in – whether calling a Member of Congress’s office, attending an event, or reading a key piece of information. This project we will build tools to
 * Identify various actions available for users by aggregating different sources of data
 * Provide a clean user interface to filter and select actions they are interested in
@@ -145,7 +145,7 @@ Grouping for projects related to refugees. Our main current project involves cla
 * Engage user interest through social media or similar means to identify tasks for more effective actions
 
 **We need software and web developers**
- 
+
 **Project Leads:** [@pg](https://datafordemocracy.slack.com/messages/@pg/) [@bonfiam](https://datafordemocracy.slack.com/messages/@bonfiam/)
 
 ---
@@ -159,7 +159,7 @@ If you're looking for a certain type of task (e.g. beginner-friendly) to lead yo
 * [data-viz](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Adata-viz&type=Issues): Data visualization task.
 * [discussion](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Adiscussion&type=Issues): Indicates this issue is a public discussion but may not necessarily have a specific task associated to it.
 * [documentation](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Adocumentation&type=Issues): Request for help with documentation.
-* [enhancement](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Aenhancement&type=Issues) 
+* [enhancement](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Aenhancement&type=Issues)
 * [first-pr](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Afirst-pr&type=Issues): For first timers only. Issues with this label are meant to be a digestible to help people get up to speed with cloning the repository, making a change and creating a pull request. Please do not claim this issue unless it is your first pull request for this project.
 * [help wanted](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3A"help+wanted"&type=Issues): Catch all label soliciting for help.
 * [modeling](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Amodeling&type=Issues): Data modeling, machine learning task.
@@ -170,5 +170,3 @@ If you're looking for a certain type of task (e.g. beginner-friendly) to lead yo
 * [status-in-progress](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Astatus-in-progress&type=Issues): Someone is actively working on this issue. Please reach out to the person assigned this issue if you would like to contribute.
 * [status-needs-grooming](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Astatus-needs-grooming&type=Issues): Issue is not fully defined. Either the person who opened the issue is not sure how to proceed or did not have time to complete. Indicates further research will be required to determine best path forward.
 * [storytelling](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Astorytelling&type=Issues): Need help crafting a story. Writing assignment.
-
-
