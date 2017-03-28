@@ -126,15 +126,6 @@ Grouping for projects related to refugees. Our main current project involves cla
 
 ---
 
-### [Educational Connection Hub](https://github.com/Data4Democracy/educational-hub)  
-**Slack:** [#teaching](https://datafordemocracy.slack.com/messages/teaching/)
-
-**Project Description:** This project aims to develop resources and tools that connect educators and students interested in exploring capstone/community service projects with D4D. Very early stages right now, so join the Slack channel if you'd like to stay up to date on how this evolves.
-
-**Project Leads:** [@annakoop](https://datafordemocracy.slack.com/messages/@annakoop/) [@jtorrez](https://datafordemocracy.slack.com/messages/@jtorrez/)
-
----
-
 ### [Indivisible](https://github.com/Data4Democracy/indivisible)  
 **Slack:** [#indivisible](https://datafordemocracy.slack.com/messages/indivisible/)
 
