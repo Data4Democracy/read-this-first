@@ -2,6 +2,10 @@
 
 Data for Democracy's mission is to be an inclusive community for data scientists and technologists to volunteer and collaborate on projects that make a positive impact on society.
 
+## Who runs D4D?
+
+The community does! Anybody who wants to contribute to making D4D better is **highly** encouraged to do so! Everything in D4D thus far has come from grassroots ideas proposed and pushed forward by a community member just like you and there's always more room for improvement. Whether it's starting a new project or proposing a new tool for the community to use, don't hesitate to just go for it!
+
 ## Getting Started  
 
 * Read more about our our [origin story](https://medium.com/data-for-democracy/origin-story-b740f14ca6ed#.psbzqw21y).  
