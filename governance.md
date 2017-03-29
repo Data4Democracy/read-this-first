@@ -1,29 +1,73 @@
 **THREE TIER GOVERNANCE**
+
 *Created by @eric_bickel*
 
-In order to maintain quality of work, it is incumbent upon the organization to ensure proper governance takes place. This governance must flow across the entire stack of analysis, beginning with the data and end at reporting. 
+In order to maintain quality of work, it is incumbent upon the organization to
+ensure proper governance. We maintain quality of work by embedding governance
+at every step of the process: data ingestion to data analytics to report
+generation.
 
-To limit control from the top, governance should be managed within each team, ideally with appointed individuals to monitor and track each of the three main processes: DATA, ANALYTICS, REPORTING.
+To encourage governance that is molded to each team, each team must appoint
+individuals to monitor and track each of the three main processes: DATA,
+ANALYTICS and REPORTING. This document aims to provide guidance for those
+individuals that are responsible for each of these three processes.
 
 **DATA GOVERNANCE**
-Great analysis must begin with great data. This means that the data that we use must be properly sourced from both a credibility and legal standpoint, and the source(s) must be adequately cited throughout the analysis.
 
-In addition to credibility in source, any cleansing of the data after harvesting should be properly defined. While in-depth details may not be necessary, a brief summary or guideline of the process used should be provided. This serves two purposes:
-This ensures that we are not overriding the quality of good data with bad cleansing practices
-It helps in the analytical process to understand how the data has been processed and munged when they are determining their methodologies
+Great analysis must begin with great data. For credibility and legality, the
+data that we use must be properly sourced and adequately cited throughout our
+processes.
 
-Within each team, a section within the README file outlining the scope should be developed to list all sources of data and links to their data.world location as well as the cleansing process of said data. 
+Additionally, data cleansing efforts must be properly defined. When in-depth
+details are not necessary, a brief summary or guideline of the process(es) used
+should be provided. This serves two purposes:
 
-**ANALYTIC GOVERNANCE**
-Analysis is both an art and a science, which means there will always be some flexibility for creativity when deciding the methodology used to run it. However, it is necessary to ensure that the methodology is adequate for the problem at hand and implemented correctly. 
+- Ensure that we are using best practices for data cleansing to avoid reducing
+  the quality of the incoming data.
+- Help downstream analysis by clearly defining how the data has been processed.
+  This may be relevant to determining which analytic methodology to use.
 
-Within the same README file outlining the scope, one section should be dedicated to the analysis. This can be done in one of two ways:
-A written section outlining the analysis performed on the data
-A link to the analysis performed (e.g. ipynb or rmd files hosted on the team’s GitHub repo) 
+To implement these data cleansing guidelines, dedicate a section called "Data
+Ingestion" within each team's README file. List all data sources along with
+links to their data.world location. Include descriptions of any cleansing that
+has been done to the data in the Project.
 
-Additionally, within each team the Project Lead should formalize a process for reviewing pull requests outlining any changes to the analysis by collaborators. This includes assigning individuals as designated reviewers of those requests, and ensuring transparency in any changes made in the README in cases where the changes materially affect the analysis.
+**ANALYTICS GOVERNANCE**
+
+We recognize that analysis is both an art and a science, so flexibility and
+creativity are absolutely encouraged. It is also necessary to ensure that the
+chosen methodology is appropriate and correctly implemented. 
+
+Dedicate one section to analysis Within the team's README file called "Data
+Analytics". This section can be either:
+
+- A written section outlining the analysis performed on the data
+- A link to the analysis performed (e.g. ipynb or rmd files hosted on the
+  team’s GitHub repo) 
+
+It is the responsibility of the individual Project Leads to formalize a process
+for managing changes to the analytic methodology as defined in the README. A
+formalized change process is especially relevant when proposed changes
+materially affect the analysis. The Project Leads should designate
+individual(s) as reviewers of such requests to promote decision making
+transparency.
 
 **REPORTING GOVERNANCE**
-Finally, proper reporting of the analysis out to the broader D4D community or general public is essential. No matter what we do to solve a problem, we cannot fully come to a solution if it is unsuccessfully communicated. While tracking governance from data collection to analysis will help us to properly communicate the process involved to come to a conclusion, each team should identify one individual to collect the results and disseminate through a single report. In addition to this one individual, at least two editors should be identified as well (ideally one heavily involved in the data collection and one heavily involved the analysis) to review the work and edit for accuracy.
 
-Finally, each report should have a link to the README file to ensure total transparency. 
+Effectively communicating the analytic results to the broader Data4Democracy
+community and the general public is essential. Even the best analytic results
+can lose potency when communication methods are not ideal.
+
+Each team should appoint one individual to champion each report. There should
+be at least two editors for each report to review and ensure accuracy. One
+editor should be appointed that was substantially involved in data ingestion
+and another that was substantially involved in the analytics. Any additional
+editors can be appointed at the discretion of the Project Lead.
+
+Each report must link back to the Project's README file to ensure total
+transparency. 
+
+If a Project materially deviates from these Reporting suggestions, add a
+section to the Project's README file under the heading "Data Reporting" and
+detail the reporting practices of the Project. 
+
