@@ -22,13 +22,13 @@ The community does! Anybody who wants to contribute to making D4D better is **hi
 
 ## Across the Community
 
-While most of our work is [project based](#current-projects), the community is large and vibrant enough that we're looking for common needs across projects that the organization can support. These are ongoing roles that can be time consuming, but are also essential to making the community helpful to our partners and a valuable experience for our volunteers. 
+While most of our work is [project based](#current-projects), the community is large and vibrant enough that we're looking for common needs across projects that the organization can support. These are ongoing roles that can be time consuming, but are also essential to making the community helpful to our partners and a valuable experience for our volunteers.
 
 ### Storytelling
 All of our projects are doing some interesting data gathering and analysis that we regularly share with the world [on our blog](https://medium.com/data-for-democracy), our [YouTube channel](https://www.youtube.com/channel/UCKPgMFPkopC30c-jrabzoMw), and the [Partially Derivative podcast](http://partiallyderivative.com) ([for example](http://partiallyderivative.com/podcast/2017/03/21/robot-bartender-overlords)). If you'd like to help with this, ping @lillianj in Slack!  
 
 ### Infrastructure and IT administration
-We're doing this on a per-project basis, along with [building tools for data science collaboration](https://github.com/Data4Democracy/docker-scaffolding), and always need help. Ping @aneel or @bstarling in Slack if you're up for helping out with this! 
+We're doing this on a per-project basis, along with [building tools for data science collaboration](https://github.com/Data4Democracy/docker-scaffolding), and always need help. Ping @aneel or @bstarling in Slack if you're up for helping out with this!
 
 ### Matchmaker
 The community has grown to a point where there is a lot of activity and a steady stream of new volunteers, which is awesome! We could use more people who know about the various projects that are happening along with the skills of the incoming volunteers, and can both match people to projects (ideally, to specific tasks), along with routinely surfacing new opportunities to the broader community for folks to get involved at all skill levels. Ping @gecky in Slack if this sounds like fun to you!
@@ -51,6 +51,10 @@ Data for Democracy volunteers are all over the world, and many cities have dedic
 **Channel:** [#city-dc](https://datafordemocracy.slack.com/messages/city-dc/)
 **Leads:** [@chris_dick](https://datafordemocracy.slack.com/messages/@chris_dick/), [@redoakmark](https://datafordemocracy.slack.com/messages/@redoakmark/)
 
+### Denver
+**Channel:** [#city-denver](https://datafordemocracy.slack.com/messages/city-denver/)
+**Leads:** [@gretchenriggs](https://datafordemocracy.slack.com/messages/@gretchenriggs/)
+
 ### Louisville
 **Channel:** [#city-louisville](https://datafordemocracy.slack.com/messages/city-louisville/)
 **Leads:** [@eric_bickel](https://datafordemocracy.slack.com/messages/@eric_bickel/), [@rkahne](https://datafordemocracy.slack.com/messages/@rkahne/), [@margeaux](https://datafordemocracy.slack.com/messages/@margeaux/), [@dmattingly](https://datafordemocracy.slack.com/messages/@dmattingly/)
@@ -67,7 +71,7 @@ Data for Democracy volunteers are all over the world, and many cities have dedic
 **Channel:** [#city-sandiego](https://datafordemocracy.slack.com/messages/city-sandiego/)
 **Leads:** [@eric_bickel](https://datafordemocracy.slack.com/messages/@eric_bickel/), [@ryanes](https://datafordemocracy.slack.com/messages/@raynes/)
 
-There are dozens of city-specific channels in the Slack, so just search for "city-yourcity" (e.g. "city-austin") to find people near you! 
+There are dozens of city-specific channels in the Slack, so just search for "city-yourcity" (e.g. "city-austin") to find people near you!
 
 ---
 
