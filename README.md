@@ -9,34 +9,67 @@ The community does! Anybody who wants to contribute to making D4D better is **hi
 ## Getting Started  
 
 * Read more about our our [origin story](https://medium.com/data-for-democracy/origin-story-b740f14ca6ed#.psbzqw21y).  
-* We use Slack and GitHub as our primary means of organization and communication. Email jonathon [at] datafordemocracy.org for an invite to the team.  
-* Read about our [current projects](#current-projects), or check out how you can volunteer [across the community](#across-the-community).
+* We use Slack and GitHub as our primary means of organization and communication. Email team [at] datafordemocracy.org for an invite to the team.  
+* Read about our [current projects](#current-projects), get involved [in your city](#city-groups), or check out how you can volunteer [across the community](#across-the-community).
 * If you see a project you are interested in, join the project Slack channel, introduce yourself to the community and the project lead(s).  
 * Visit project readme for specific instructions on who to contact or how to get started.
-* Not sure which project you want to join? Introduce yourself in [#general](https://datafordemocracy.slack.com/messages/general/). Talk to a few project leads, let them know what you are interested in. Project leads can help you determine if a project is a good fit for you.
+* Not sure which project you want to join? Introduce yourself in [#general](https://datafordemocracy.slack.com/messages/general/). Talk to a few project leads, let them know what you are interested in. Project leads can help you determine if a project is a good fit for you. The leads for each project are listed are [listed below](#current-projects).
 * Have an idea for a new project? Join [#project-ideas](https://datafordemocracy.slack.com/messages/project-ideas/) to start a discussion on a new project.
-* Looking for a certain type of task, in any project? Check the [task digest](#task-digest).
+* Looking for a certain type of task in any project? Check the [task digest](#task-digest).
 * Not sure how to get started? Contact @gecky or @jonathon in the Slack, or check out the [#onboarding](https://datafordemocracy.slack.com/messages/onboarding/) channel, and we'll help you out. Also check out [#micro-projects](https://datafordemocracy.slack.com/messages/micro-projects/) for quick projects that'll help you get your feet wet.
 * Want to pick up some skills before diving in? Check out the [tutorials](https://github.com/Data4Democracy/tutorials) which are all relevant to D4D projects and chat about it in [#learning](https://datafordemocracy.slack.com/messages/learning/).
 * Check out our [data.world](https://data.world) page at [data.world/data4democracy](https://data.world/data4democracy), where data can be shared. See our guide to [get started](https://github.com/Data4Democracy/read-this-first/blob/master/data-world.md). Contact @sya or @gabriela in Slack with questions
 
 ## Across the Community
 
-While most of our work is [project based](#current-projects), the community is large and vibrant enough that we're looking for common needs across projects that the organization can support. These are ongoing roles that can be time consuming, but are also essential to making the community helpful to our partners and a valuable experience for our volunteers. Ping @jonathon in Slack if you'd like to help with the following:
+While most of our work is [project based](#current-projects), the community is large and vibrant enough that we're looking for common needs across projects that the organization can support. These are ongoing roles that can be time consuming, but are also essential to making the community helpful to our partners and a valuable experience for our volunteers. 
 
 ### Storytelling
-All of our projects are doing some interesting data gathering and analysis that we'd love to share with the world. We'd like to start publishing regular blog posts highlighting these resources, scheduling short interviews for the [Partially Derivative](http://partiallyderivative.com) podcast, and discussing our work on social media so the larger community knows what we're doing and gets to see our work in progress. If you want to write, edit, tweet, and ideally organize this process, we'd like to hear from you.
+All of our projects are doing some interesting data gathering and analysis that we regularly share with the world [on our blog](https://medium.com/data-for-democracy), our [YouTube channel](https://www.youtube.com/channel/UCKPgMFPkopC30c-jrabzoMw), and the [Partially Derivative podcast](http://partiallyderivative.com) ([for example](http://partiallyderivative.com/podcast/2017/03/21/robot-bartender-overlords)). If you'd like to help with this, ping @lillianj in Slack!  
 
 ### Infrastructure and IT administration
-We're doing this on a per-project basis, and would love someone to manage this process -- from GitHub access, to data sharing, to AWS permissions, and everything in between.  
+We're doing this on a per-project basis, along with [building tools for data science collaboration](https://github.com/Data4Democracy/docker-scaffolding), and always need help. Ping @aneel or @bstarling in Slack if you're up for helping out with this! 
 
 ### Matchmaker
-The community has grown to a point where there is a lot of activity and a steady stream of new volunteers, which is awesome! We could use more people who know about the various projects that are happening along with the skills of the incoming volunteers, and can both match people to projects (ideally, to specific tasks), along with routinely surfacing new opportunities to the broader community for folks to get involved at all skill levels. @gecky and the individual project leads have been going above and beyond in this regard, and they need your help.
+The community has grown to a point where there is a lot of activity and a steady stream of new volunteers, which is awesome! We could use more people who know about the various projects that are happening along with the skills of the incoming volunteers, and can both match people to projects (ideally, to specific tasks), along with routinely surfacing new opportunities to the broader community for folks to get involved at all skill levels. Ping @gecky in Slack if this sounds like fun to you!
 
 ### Project Leads
-You've probably noticed that there are a few people in every active project keeping the group on track, taking questions, and helping new folks get settled in -- that's by design. Leading a project can be a big time commitment, but it's hugely valuable to making sure we're doing useful work, and volunteers are getting the most out of volunteering. You don't need to be super technical, just organized and enthusiastic! **In particular we're looking for people to lead these projects:**
-* An ongoing series of small projects with the city of Los Angeles' analytics team. You'll be the liason between the D4D community and the group in LA working with the Chief Data Officer.
-* Tech to support immigration attorneys. We're talking with one national immigration law non-profit to make sure we're focused on what will have the most impact, and more partnerships will follow.
+You've probably noticed that there are a few people in every active project keeping the group on track, taking questions, and helping new folks get settled in -- that's by design. Leading a project can be a big time commitment, but it's hugely valuable to making sure we're doing useful work, and volunteers are getting the most out of volunteering. You don't need to be super technical, just organized and enthusiastic! Ping @jonathon in Slack if you're interested in leading a project.
+
+## City groups
+Data for Democracy volunteers are all over the world, and many cities have dedicated channels in Slack, and even regular in-person meetups to collaborate in person and work on data projects specific to their city or state. This is mostly US-based for now, but that's not on purpose, so feel free to spin up a group where you live! (We're looking at you London, Berlin, Warsaw, Bangalore, Sydney, and...). And of course, if you are in the US, there are probably at least a few D4D-ers where you live, so don't hesitate to start your own city group!
+
+### Boulder
+**Channel:** [#city-boulder](https://datafordemocracy.slack.com/messages/city-boulder/)
+**Leads:** [@sam](https://datafordemocracy.slack.com/messages/@sam/)
+
+### Chicago
+**Channel:** [#city-chicago](https://datafordemocracy.slack.com/messages/city-chicago/)
+**Leads:** [@lillianj](https://datafordemocracy.slack.com/messages/@lillianj/)
+
+### DC
+**Channel:** [#city-dc](https://datafordemocracy.slack.com/messages/city-dc/)
+**Leads:** [@chris_dick](https://datafordemocracy.slack.com/messages/@chris_dick/), [@redoakmark](https://datafordemocracy.slack.com/messages/@redoakmark/)
+
+### Louisville
+**Channel:** [#city-louisville](https://datafordemocracy.slack.com/messages/city-louisville/)
+**Leads:** [@eric_bickel](https://datafordemocracy.slack.com/messages/@eric_bickel/), [@rkahne](https://datafordemocracy.slack.com/messages/@rkahne/), [@margeaux](https://datafordemocracy.slack.com/messages/@margeaux/), [@dmattingly](https://datafordemocracy.slack.com/messages/@dmattingly/)
+
+### Los Angeles
+**Channel:** [#city-losangeles](https://datafordemocracy.slack.com/messages/city-losangeles/)
+**Leads:** [@chelsea.ursaner](https://datafordemocracy.slack.com/messages/@chelsea.ursaner/), [@adamdrake](https://datafordemocracy.slack.com/messages/@adamdrake/)
+
+### Seattle (**[meetup page](https://www.meetup.com/Data-for-Democracy-Seattle/)**)
+**Channel:** [#city-seattle](https://datafordemocracy.slack.com/messages/city-seattle/)
+**Leads:** [@zachmueller](https://datafordemocracy.slack.com/messages/@zachmueller/), [@grichardson](https://datafordemocracy.slack.com/messages/@grichardson/), [@jtorrez](https://datafordemocracy.slack.com/messages/@jtorrez/)
+
+### San Diego
+**Channel:** [#city-sandiego](https://datafordemocracy.slack.com/messages/city-sandiego/)
+**Leads:** [@eric_bickel](https://datafordemocracy.slack.com/messages/@eric_bickel/), [@ryanes](https://datafordemocracy.slack.com/messages/@raynes/)
+
+There are dozens of city-specific channels in the Slack, so just search for "city-yourcity" (e.g. "city-austin") to find people near you! 
+
+---
 
 ## Current projects  
 We have many projects going in our slack community. Below is a list of some of our more active projects that are actively seeking help.
@@ -56,15 +89,6 @@ We have many projects going in our slack community. Below is a list of some of o
 **Slack:** [#boston-crash-modeling](https://datafordemocracy.slack.com/messages/boston-crash-modeling/)
 
 **Project Leads:** [@therriault](https://datafordemocracy.slack.com/messages/@therriault/) (City of Boston lead), [@niccolley](https://datafordemocracy.slack.com/messages/@niccolley/) (Data for Democracy lead)
-
----
-
-### City of San Diego
-**Project Description:** This is an ongoing collaboration with the analytics team at the city of San Diego. We'll be checking in with them on a regular basis to see what analysis or machine learning projects they need help with, and coordinating with the D4D community on a project-by-project basis to get things done. This is a great way to make a direct impact at the city level.
-
-**Slack:** [#city-sandiego](https://datafordemocracy.slack.com/messages/city-sandiego/)
-
-**Project Leads:** [@eric_bickel](https://datafordemocracy.slack.com/messages/@eric_bickel/)
 
 ---
 
