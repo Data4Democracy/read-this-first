@@ -59,6 +59,10 @@ Data for Democracy volunteers are all over the world, and many cities have dedic
 **Channel:** [#city-losangeles](https://datafordemocracy.slack.com/messages/city-losangeles/)
 **Leads:** [@chelsea.ursaner](https://datafordemocracy.slack.com/messages/@chelsea.ursaner/), [@adamdrake](https://datafordemocracy.slack.com/messages/@adamdrake/)
 
+### New York
+**Channel:** [#city-nyc](https://datafordemocracy.slack.com/messages/city-nyc/)
+**Leads:** [@bkey](https://datafordemocracy.slack.com/messages/@bkey/), [@henripal](https://datafordemocracy.slack.com/messages/@henripal/), [@danielah](https://datafordemocracy.slack.com/messages/@danielah), [@ckmarcelus](https://datafordemocracy.slack.com/messages/@ckmarcelus)
+
 ### Seattle (**[meetup page](https://www.meetup.com/Data-for-Democracy-Seattle/)**)
 **Channel:** [#city-seattle](https://datafordemocracy.slack.com/messages/city-seattle/)
 **Leads:** [@zachmueller](https://datafordemocracy.slack.com/messages/@zachmueller/), [@grichardson](https://datafordemocracy.slack.com/messages/@grichardson/), [@jtorrez](https://datafordemocracy.slack.com/messages/@jtorrez/)
