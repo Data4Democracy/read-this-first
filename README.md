@@ -82,15 +82,6 @@ There are dozens of city-specific channels in the Slack, so just search for "cit
 ## Current projects  
 We have many projects going in our slack community. Below is a list of some of our more active projects that are actively seeking help.
 
-### [Assemble](https://github.com/Data4Democracy/assemble)  
-**Slack:** [#assemble](https://datafordemocracy.slack.com/messages/assemble/)
-
-**Project Description:** Community working to build tools and infrastructure to enable the study of online communities and their characteristics. As we work through our own projects, our goal is to build a toolkit which takes care of common tasks so researchers do not have to reinvent the wheel with each new project.  
-
-**Project Leads:** [@bstarling](https://datafordemocracy.slack.com/messages/@bstarling/) [@nick](https://datafordemocracy.slack.com/messages/@nick/)
-
----
-
 ### [Boston Crash Modeling](https://github.com/Data4Democracy/boston-crash-modeling)
 **Project Description:** This is an official collaboration between the City of Boston's Analytics Team and Data for Democracy. We want to build a crash prediction modeling application. This would combine things like [our crowdsourced safety concerns dataset](http://app01.cityofboston.gov/VZSafety/) and [crash reports](http://app01.cityofboston.gov/VisionZero/) with a wide range of other data from our own open data portal as well as from other sources like the state's transportation and transit agencies, weather conditions feeds, and traffic reports from sites like Google. The end result will be a set of dynamic predictions we can use to identify potential trouble spots and direct timely safety interventions--everything from protected bike lanes and better-marked crosswalks to new street lights and traffic light timings. We'll make this publicly-available to everyone through a hosted map application, and develop the project as an open source template that can be adapted for use by other cities.
 
