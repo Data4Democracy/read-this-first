@@ -188,3 +188,8 @@ If you're looking for a certain type of task (e.g. beginner-friendly) to lead yo
 * [status-in-progress](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Astatus-in-progress&type=Issues): Someone is actively working on this issue. Please reach out to the person assigned this issue if you would like to contribute.
 * [status-needs-grooming](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Astatus-needs-grooming&type=Issues): Issue is not fully defined. Either the person who opened the issue is not sure how to proceed or did not have time to complete. Indicates further research will be required to determine best path forward.
 * [storytelling](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Astorytelling&type=Issues): Need help crafting a story. Writing assignment.
+
+## Project Ideas
+If you have an idea for a project or are looking to start a new one, check out the #project-ideas channel in Slack, and also [the project-ideas repo in this organisation](https://github.com/Data4Democracy/project-ideas/issues).
+
+You can check here for [projects that are looking for help](https://github.com/Data4Democracy/project-ideas/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20label%3A%22help%20wanted%22) and here for [projects that are looking for leads](https://github.com/Data4Democracy/project-ideas/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20label%3A%22lead%20wanted%22).
