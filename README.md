@@ -39,6 +39,10 @@ You've probably noticed that there are a few people in every active project keep
 ## City groups
 Data for Democracy volunteers are all over the world, and many cities have dedicated channels in Slack, and even regular in-person meetups to collaborate in person and work on data projects specific to their city or state. This is mostly US-based for now, but that's not on purpose, so feel free to spin up a group where you live! (We're looking at you London, Berlin, Warsaw, Bangalore, Sydney, and...). And of course, if you are in the US, there are probably at least a few D4D-ers where you live, so don't hesitate to start your own city group!
 
+### Austin
+**Channel:** [#city-austin](https://datafordemocracy.slack.com/messages/city-austin/)
+**Leads:** [@jonathon](https://datafordemocracy.slack.com/messages/@jonathon/)
+
 ### Boulder
 **Channel:** [#city-boulder](https://datafordemocracy.slack.com/messages/city-boulder/)
 **Leads:** [@sam](https://datafordemocracy.slack.com/messages/@sam/)
@@ -165,6 +169,12 @@ Grouping for projects related to refugees. Our main current project involves cla
 **We need software and web developers**
 
 **Project Leads:** [@pg](https://datafordemocracy.slack.com/messages/@pg/) [@bonfiam](https://datafordemocracy.slack.com/messages/@bonfiam/)
+
+---
+### [Quorum](https://github.com/Data4Democracy/quorum)
+**Slack:** [#p-quorum](https://datafordemocracy.slack.com/messages/p-quorum/)
+
+**Project Description:** Quorum is a data for democracy community working to build tools and infrastructure to enable the study of online communities and their characteristics. Our goal is to build a toolkit which takes care of common tasks so researchers do not have to reinvent the wheel with each new project.
 
 ---
 
