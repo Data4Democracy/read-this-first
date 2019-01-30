@@ -18,7 +18,7 @@ The community does! Anybody who wants to contribute to making D4D better is **hi
 * Looking for a certain type of task in any project? Check the [task digest](#task-digest).
 * Not sure how to get started? Contact @gecky or @jonathon in the Slack, or check out the [#onboarding](https://datafordemocracy.slack.com/messages/onboarding/) channel, and we'll help you out. Also check out [#micro-projects](https://datafordemocracy.slack.com/messages/micro-projects/) for quick projects that'll help you get your feet wet.
 * Want to pick up some skills before diving in? Check out the [tutorials](https://github.com/Data4Democracy/tutorials) which are all relevant to D4D projects and chat about it in [#learning](https://datafordemocracy.slack.com/messages/learning/).
-* Check out our [data.world](https://data.world) page at [data.world/data4democracy](https://data.world/data4democracy), where data can be shared. See our guide to [get started](https://github.com/Data4Democracy/read-this-first/blob/master/data-world.md). Contact @sya or @gabriela in Slack with questions
+* Check out our [data.world](https://data.world) page at [data.world/data4democracy](https://data.world/data4democracy), where data can be shared. See our guide to [get started](https://github.com/Data4Democracy/read-this-first/blob/master/data-world.md). Contact @scuttlemonkey in Slack with questions
 
 ## Across the Community
 
