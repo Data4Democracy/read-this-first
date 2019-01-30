@@ -156,21 +156,6 @@ Grouping for projects related to refugees. Our main current project involves cla
 **Project Leads:** [@tylerjrichards](https://datafordemocracy.slack.com/messages/@tylerjrichards/) [@jtorrez](https://datafordemocracy.slack.com/messages/@jtorrez/) [@chavan](https://datafordemocracy.slack.com/messages/@chavan/)
 
 ---
-
-### [Indivisible](https://github.com/Data4Democracy/indivisible)  
-**Slack:** [#indivisible](https://datafordemocracy.slack.com/messages/indivisible/)
-
-**Project Description:** A variety of civic activism organizations have sprung up in the wake of the election to help mobilize and empower people. The organizations often operate by sending out daily or weekly “actions” that their supporters partake in – whether calling a Member of Congress’s office, attending an event, or reading a key piece of information. This project we will build tools to
-* Identify various actions available for users by aggregating different sources of data
-* Provide a clean user interface to filter and select actions they are interested in
-* Build a dashboard and track action progress/effectiveness over time
-* Engage user interest through social media or similar means to identify tasks for more effective actions
-
-**We need software and web developers**
-
-**Project Leads:** [@pg](https://datafordemocracy.slack.com/messages/@pg/) [@bonfiam](https://datafordemocracy.slack.com/messages/@bonfiam/)
-
----
 ### [Quorum](https://github.com/Data4Democracy/quorum)
 **Slack:** [#p-quorum](https://datafordemocracy.slack.com/messages/p-quorum/)
 
