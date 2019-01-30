@@ -93,15 +93,6 @@ We have many projects going in our slack community. Below is a list of some of o
 
 **Project Leads:** [@therriault](https://datafordemocracy.slack.com/messages/@therriault/) (City of Boston lead), [@niccolley](https://datafordemocracy.slack.com/messages/@niccolley/) (Data for Democracy lead)
 
----
-
-### [Drug Spending](https://github.com/Data4Democracy/drug-spending)  
-**Slack:** [#drug-spending](https://datafordemocracy.slack.com/messages/drug-spending/)  
-**Project Description:** Help the public understand what their tax dollars are going toward. Eg, what % of the eligible population (and/or all Americans) are benefiting from Medicare prescription drug coverage? How many Medicare enrollees are being treated for common/relatable conditions like diabetes, Alzheimer's, or depression? What proportion of Medicare prescription spending is on each of those conditions?
-
-**Project Leads:** [@jenniferthompson](https://datafordemocracy.slack.com/messages/@jenniferthompson/) [@mattgawarecki](https://datafordemocracy.slack.com/messages/@mattgawarecki/)
-
-**Data:** [data.world/data4democracy/drug-spending](https://data.world/data4democracy/drug-spending)
 
 ---
 
