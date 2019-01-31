@@ -25,10 +25,8 @@ The community does! Anybody who wants to contribute to making D4D better is **hi
 While most of our work is [project based](#current-projects), the community is large and vibrant enough that we're looking for common needs across projects that the organization can support. These are ongoing roles that can be time consuming, but are also essential to making the community helpful to our partners and a valuable experience for our volunteers.
 
 ### Storytelling
-All of our projects are doing some interesting data gathering and analysis that we regularly share with the world [on our blog](https://medium.com/data-for-democracy), our [YouTube channel](https://www.youtube.com/channel/UCKPgMFPkopC30c-jrabzoMw), and the [Partially Derivative podcast](http://partiallyderivative.com) ([for example](http://partiallyderivative.com/podcast/2017/03/21/robot-bartender-overlords)). If you'd like to help with this, ping @lillianj in Slack!  
+All of our projects are doing some interesting data gathering and analysis that we regularly share with the world [on our blog](https://medium.com/data-for-democracy) and our [YouTube channel](https://www.youtube.com/channel/UCKPgMFPkopC30c-jrabzoMw). If you'd like to help with this, ping @lillianj in Slack!  
 
-### Infrastructure and IT administration
-We're doing this on a per-project basis, along with [building tools for data science collaboration](https://github.com/Data4Democracy/docker-scaffolding), and always need help. Ping @aneel or @bstarling in Slack if you're up for helping out with this!
 
 ### Matchmaker
 The community has grown to a point where there is a lot of activity and a steady stream of new volunteers, which is awesome! We could use more people who know about the various projects that are happening along with the skills of the incoming volunteers, and can both match people to projects (ideally, to specific tasks), along with routinely surfacing new opportunities to the broader community for folks to get involved at all skill levels. Ping @gecky in Slack if this sounds like fun to you!
@@ -107,50 +105,12 @@ We have many projects going in our slack community. Below is a list of some of o
 
 ---
 
-### [Refugees](https://github.com/Data4Democracy/internal-displacement)
-
-**Project Description:**  
-Grouping for projects related to refugees. Our main current project involves classifying, tagging, analyzing and visualizing news events relating to internally displaced people in an attempt to track internal refugee crises across the globe.
-
-**Slack:** [#refugees](https://datafordemocracy.slack.com/messages/refugees/)
-
-**Project Lead:**
-[@grichardson](https://datafordemocracy.slack.com/messages/@grichardson/)
-
----
-
-### ProPublica  
-**Slack:** [#propublica](https://datafordemocracy.slack.com/messages/propublica/)
-
-**Project Description:** Working on projects to support the non-profit investigative journalism publication, [ProPublica](http://propublica.org). The team's first project is [analyzing campaign spending data](https://github.com/Data4Democracy/campaign_expenditures) and have just started a web scraping/data engineering project around [foreign travel expenditures](https://github.com/Data4Democracy/official-foreign-travel).
-
-**Project Leads:** [@ryanes](https://datafordemocracy.slack.com/messages/@ryanes/) [@eric_bickel](https://datafordemocracy.slack.com/messages/@eric_bickel/)
-
-**Data:** [data.world/data4democracy/propublica](https://data.world/data4democracy/propublica)
-
----
-
-### [USA Dashboard](https://github.com/Data4Democracy/usa-dashboard/issues)  
-**Slack:** [#usa-dashboard](https://datafordemocracy.slack.com/messages/usa-dashboard/)
-
-**Project Description:** A dashboard of key metrics for the USA. The team's first KPIs are around city-level crime data.
-
-**Project Leads:** [@sjt](https://datafordemocracy.slack.com/messages/sjt/)
-
----
-
 ### [Immigration Connect](https://github.com/Data4Democracy/immigration-connect)
 **Project Description:** Collecting, analyzing, and modeling data related to immigration. We're also building tools (visualizations, email parsers, matching algorithms to connect to connect pro bono lawyers with immigrants in need) to support the work of organizations working on immigration law and other immigration related issues.
 
 **Slack:** [#immigration-connect](https://datafordemocracy.slack.com/messages/immigration-connect/)
 
 **Project Leads:** [@tylerjrichards](https://datafordemocracy.slack.com/messages/@tylerjrichards/) [@jtorrez](https://datafordemocracy.slack.com/messages/@jtorrez/) [@chavan](https://datafordemocracy.slack.com/messages/@chavan/)
-
----
-### [Quorum](https://github.com/Data4Democracy/quorum)
-**Slack:** [#p-quorum](https://datafordemocracy.slack.com/messages/p-quorum/)
-
-**Project Description:** Quorum is a data for democracy community working to build tools and infrastructure to enable the study of online communities and their characteristics. Our goal is to build a toolkit which takes care of common tasks so researchers do not have to reinvent the wheel with each new project.
 
 ---
 
@@ -176,6 +136,6 @@ If you're looking for a certain type of task (e.g. beginner-friendly) to lead yo
 * [storytelling](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Astorytelling&type=Issues): Need help crafting a story. Writing assignment.
 
 ## Project Ideas
-If you have an idea for a project or are looking to start a new one, check out the #project-ideas channel in Slack, and also [the project-ideas repo in this organisation](https://github.com/Data4Democracy/project-ideas/issues).
+If you have an idea for a project or are looking to start a new one, check out the #project-ideas channel in Slack, and also [the project-ideas repo in this organization](https://github.com/Data4Democracy/project-ideas/issues).
 
 You can check here for [projects that are looking for help](https://github.com/Data4Democracy/project-ideas/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20label%3A%22help%20wanted%22) and here for [projects that are looking for leads](https://github.com/Data4Democracy/project-ideas/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20label%3A%22lead%20wanted%22).
